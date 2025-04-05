@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Eagle!<br><br>🎓 Education: Class 11 Commerce student, specializing in Computer Science<br>💻 Interests: Programming, Game Development, and Tech Exploration<br>🚀 Skills: AArch64 Assembly, C/C++, Java, Lua, PHP, HTML, CSS, JavaScript, Node.js, Python, TypeScript<br>🔧 Specialization: C/C++, Java, PHP<br>💡 Achievements: Developed my own interpreted programming language called SimpleVm<br>🎮 Currently Learning: Advanced AArch64 Assembly & LibGDX Game Development<br>💡 Goals: To create impactful projects and continuously explore innovative technologies
+👋 Hello, I'm Eagle!<br><br>🎓 Education: Class 12 Commerce student, specializing in Computer Science<br>💻 Interests: Programming, Game Development, and Tech Exploration<br>🚀 Skills: AArch64 Assembly, C/C++, Java, Lua, PHP, HTML, CSS, JavaScript, Node.js, Python, TypeScript<br>🔧 Specialization: C/C++, Java, PHP<br>💡 Achievements: Developed my own interpreted programming language called SimpleVm<br>🎮 Currently Learning: Advanced AArch64 Assembly & LibGDX Game Development<br>💡 Goals: To create impactful projects and continuously explore innovative technologies
 
 
 ## 🌐 Socials:
