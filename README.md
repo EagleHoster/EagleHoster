@@ -1,4 +1,7 @@
 <!-- # 💫 About Me: -->
+<!-- <p align="center">
+  <img src="https://styles.redditmedia.com/t5_dihddr/styles/profileIcon_3q2qy3jla3he1.jpg?width=256&height=256&frame=1&auto=webp&crop=&s=7fc7aac72d8412b6d3a9fffbcba02a4de33780ff" />
+</p> -->
 <h1 align="center">Hey 👋, I'm Manpreet Singh Anand</h1>
 <p align="center">
   <i>Also known as <b>EagleHoster</b> • Talented Developer • Open Source Builder • Emulator Architect</i>
