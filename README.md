@@ -1,7 +1,7 @@
-<-- # 💫 About Me: -->
+<!-- # 💫 About Me: -->
 <h1 align="center">Hey 👋, I'm Manpreet Singh Anand</h1>
 <p align="center">
-  <i>Also known as <b>EagleHoster</b> • Mobile-Only Developer • Open Source Builder • Emulator Architect</i>
+  <i>Also known as <b>EagleHoster</b> • Talented Developer • Open Source Builder • Emulator Architect</i>
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 ---
 
 ## 🚀 About Me
-- 📱 I develop entirely on **mobile**, using Termux, Sketchware, and more.
+- 📱 I develop entirely on **mobile**, using Termux, Sketchware, Emulated Ubuntu & Kali and more.
 - 💻 I create **emulators, interpreters, game engines**, and even operating systems from scratch.
 - ⚙️ Fluent in **low-level development** (C, C++, Assembly, Rust) and **web** (JS, PHP, TypeScript).
-- 🔥 Passionate about **CHIP-8**, **6502**, **x86**, and building things others wouldn’t try on a phone.
+- 🔥 Passionate about **CHIP-8**, **6502**, **x86**, and building things Cs Majors couldn't even think of.
 - 🧠 Programming is not just a skill, it's my way of life.
 
 ---
@@ -31,12 +31,13 @@
 ---
 
 ## 📌 Projects Highlight
-- 🧠 **CHIP-8 Emulator + Assembler + Disassembler** — Fully made from scratch on mobile.
+- 🧠 **CHIP-8 Emulator + Assembler + Disassembler** — Fully made from scratch on mobile with custom opCodes too.
+- 🤖 **Ai Flappy Bird** — Created flappy bird that flaps itself. Works using reinforcement learning. 1000s of dumb birds at start but every generation is breeded from most outperforming Birds. (Using Ml5.js)
 - 💾 **Custom Operating System (MyOS)** — Bootloader, kernel in C, with VBE under 32-bit PM.
 - 🎮 **Connect 3 Game Engine** — Modular JavaScript game framework.
 - 🛡 **Minecraft AFK Bot** — Built using `mineflayer`, packed with intelligent roaming, mining, and guard commands.
-- 📟 **6502-style Assembly Simulator** — Mobile-friendly visual simulator and assembler.
-- 🤖 **WhatsApp Bot** — Built with Baileys lib in 2 days.
+- 📟 **6502-style Assembly Simulator** — Mobile-friendly visual simulator and assembler with display.
+- 🤖 **WhatsApp Bot** — Built with Baileys lib in 2 days. He talks with people. Can be best used as Costumer service or Automated online businesses. He can tally the orders, Clear customers doubts, Can even get angry at Dumb users. (Ok tested✅)
 
 ---
 
@@ -58,7 +59,7 @@
 ---
 
 ## 💡 Philosophy
-> "Tools are not limitations — they are challenges. I code an OS on mobile, and I love it."
+> "Tools are not limitations — they are challenges. I coded an OS & Kernel.c entirely on mobile, and I love it."
 
 ---
 
@@ -80,4 +81,5 @@
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/EagleHosters) 
+
   
