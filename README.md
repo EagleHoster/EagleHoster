@@ -1,4 +1,4 @@
-# 💫 About Me:
+<-- # 💫 About Me: -->
 <h1 align="center">Hey 👋, I'm Manpreet Singh Anand</h1>
 <p align="center">
   <i>Also known as <b>EagleHoster</b> • Mobile-Only Developer • Open Source Builder • Emulator Architect</i>
