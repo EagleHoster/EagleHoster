@@ -67,11 +67,15 @@
 ---
 
 ## Achievements
-***Verified Contributor** on Sketchub. (Verified Batch Holder)*
-*Built working **emulators & Os** tools fully on mobile*
-*Designed **reusable engines**, Interpreters, Assemblers, etc.*
-*Created full low-Level **Chip-8** dev pipeline.*
-*Advanced progress on my **own** Operating system (Like Android, Linux)*
+1.***Verified Contributor** on Sketchub. (Verified Batch Holder)*
+
+2.*Built working **emulators & Os** tools fully on mobile*
+
+3.*Designed **reusable engines**, Interpreters, Assemblers, etc.*
+
+4.*Created full low-Level **Chip-8** dev pipeline.*
+
+5.*Advanced progress on my **own** Operating system (Like Android, Linux)*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/tNbzpSpw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/EagleHoster) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Eagle-Hoster-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EagleHoster) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29499638) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EagleHoster1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@EagleHoster) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Eagle-Hoster) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eagleshoster@gmail.com) 
